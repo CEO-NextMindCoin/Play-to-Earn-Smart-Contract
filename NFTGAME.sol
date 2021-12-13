@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract NFTGAME is ERC721, Ownable {
+contract MAGICNXMCGAME is ERC721, Ownable {
 
     enum type_character { VIKING, GAULOIS }
 
